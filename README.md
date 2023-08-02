@@ -1,2 +1,1 @@
-#!/bin/bash
-shel basics
+where am i
